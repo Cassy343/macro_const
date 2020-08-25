@@ -4,4 +4,12 @@ version = "0.1.0"
 authors = ["Cassy343 <isilversmith810@gmail.com>"]
 edition = "2018"
 
+description = "A macro for creating corresponding macro definitions for constants which evaluate to the same values."
+repository = "https://github.com/Cassy343/macro_const"
+license = "MIT"
+readme = "README.md"
+
+keywords = ["macro", "constant", "const"]
+categories = [ "no-std", "rust-patterns" ]
+
 [dependencies]
